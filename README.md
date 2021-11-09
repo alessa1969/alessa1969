@@ -4,7 +4,6 @@ Here are some ideas to get you started:
 
 - 🔭 Hoje eu trabalho com Analitycs
 - 🌱 Estudando Segurança Cibernética, Data Science e Analytics
-- 📫 How to reach me: ...
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/alessa1969">
