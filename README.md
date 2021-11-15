@@ -1,4 +1,4 @@
-## Olá eu sou o Alexandre Lessa, apaixonado por tecnologia e programação!
+## Olá! Eu sou o Alexandre Lessa, apaixonado por tecnologia e programação!
 
 Here are some ideas to get you started:
 
